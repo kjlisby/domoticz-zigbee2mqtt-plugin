@@ -44,6 +44,7 @@ git pull
 
 ### Bitron
 - Bitron Wireless motion detector
+- Bitron Wireless smart plug
 
 ### Bosch
 - Bosch Motion sensor
@@ -73,6 +74,9 @@ git pull
 - GE ZigBee plug-in smart switch
 - GE ZigBee in-wall smart dimmer
 - GE ZigBee in-wall smart switch
+
+### Gira
+- Gira ZigBee Light Link wall transmitter
 
 ### Gledopto
 - Gledopto Zigbee LED controller RGB + CCT / RGBW / WWCW / Dimmer 
@@ -123,10 +127,13 @@ git pull
 ### Innr
 - Innr E27 Bulb
 - Innr E27 Bulb warm dimming
+- Innr E27 Bulb filament clea
 - Innr E27 Bulb RGBW
+- Innr E27 filament bulb dimmable
 - Innr E27 Smart bulb tunable white
 - Innr GU10 Spot
 - Innr GU10 Spot 350 lm, dimmable, white spectrum
+- Innr E14 Bulb RGBW
 - Innr E14 Candle
 - Innr E14 Candle with white spectrum
 - Innr B22 Bulb dimmable
@@ -147,6 +154,10 @@ git pull
 
 ### JIAWEN
 - JIAWEN Wireless Bulb E27 9W RGBW
+
+### Konke
+- Konke Multi-function button
+- Konke Temperature and humidity sensor
 
 ### Ksentry
 - Ksentry Electronics Zigbee OnOff Controller
@@ -293,6 +304,9 @@ git pull
 
 ### ilux
 - ilux Dimmable A60 E27 LED Bulb
+
+### Eurotronic
+- Eurotronic SPZB0001 thermostat
 
 ### Other
 - Custom devices (DiY) DNCKAT single key wired wall light switch
